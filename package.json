@@ -1,9 +1,9 @@
 {
   "name": "nrs-digitalocean-connectivity-probe",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "private": true,
   "type": "module",
-  "description": "Read-only NRS Production HTTPS/TLS connectivity probe for DigitalOcean App Platform.",
+  "description": "Read-only NRS Production HTTPS/TLS connectivity and certificate-chain probe for DigitalOcean App Platform.",
   "scripts": {
     "start": "node server.mjs"
   },
